@@ -2,6 +2,9 @@
 
 Click Demo:https://tesla-clone3.web.app/
 
+![Ekran Görüntüsü (116)](https://user-images.githubusercontent.com/79467236/179180407-5c928e6a-346e-4dbb-b1e3-451123ec1460.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
